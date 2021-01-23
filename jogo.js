@@ -155,7 +155,7 @@ $(document).ready( function ()
 				{
 					alert('Top das Galaxias');
 				}
-				alert(jogador_2 +'é o vencedor');
+				alert(jogador_2 +' é o vencedor');
 				$('.jogada').off();
 				
 
